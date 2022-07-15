@@ -26,7 +26,7 @@ A collection of Discworld-inspired gingerbread houses.
 ## Art
 
 #### Music
-| ![Treble clef](../assets/images/treble.jpg) |
+![Treble clef](../assets/images/treble.jpg)
 *Wooden treble clef*
 
 ![Bass clef](../assets/images/bass.jpg)

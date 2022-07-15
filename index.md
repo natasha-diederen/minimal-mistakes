@@ -8,4 +8,5 @@ author_profile: true
 
 ---
 
-This is my home page.
+I am a second-year maths student at the University of Warwick. My mathematical interests lie in geometric measure theory, 
+minimal surface theory and differential geometry.

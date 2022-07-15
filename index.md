@@ -18,4 +18,4 @@ I returned to this programme as a student volunteer in 2022. \
 
 In my free time, I enjoy climbing, creating art (see [gallery](https://natasha-diederen.github.io/pages/gallery/)) and reading. \
 
-[get the PDF](/assets/images/cv.pdf)
+[CV](/assets/images/cv.pdf)

@@ -16,4 +16,6 @@ Previously, I was a research fellow at the 2021 [Summer Geometry Institute](http
 and [triply periodic non-manifold minimal surfaces](http://summergeometry.org/sgi2021/minimal-surfaces-but-with-saddle-points/). 
 I returned to this programme as a student volunteer in 2022. \
 
-In my free time, I enjoy climbing, creating art (see [gallery](https://natasha-diederen.github.io/pages/gallery/)) and reading. 
+In my free time, I enjoy climbing, creating art (see [gallery](https://natasha-diederen.github.io/pages/gallery/)) and reading. \
+
+[get the PDF](/assets/images/cv.pdf)

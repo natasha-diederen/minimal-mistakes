@@ -8,5 +8,7 @@ author_profile: true
 
 ---
 
-I am a second-year maths student at the University of Warwick. My mathematical interests lie in geometric measure theory, 
-minimal surface theory and differential geometry.
+I am a second year maths student at the University of Warwick with a strong interest in geometric measure theory and differential geometry. 
+Right now, I am working on a funded research project with Professor Felix Schulze [link] on Berstein's Problem for minimal surfaces. Previously, I was
+a research fellow at the 2021 Summer Geometry Institute [link] hosted by MIT and did work on fluid flow simulation, elastic bending and triply periodic
+non-manifold minimal surfaces. I returned to this programme as a student volunteer in 2022.

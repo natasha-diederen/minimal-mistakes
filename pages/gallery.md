@@ -27,6 +27,9 @@ A collection of Discworld-inspired gingerbread houses.
 
 #### Music
 ![Treble clef](../assets/images/treble.jpg)
+
+| <b>Image Credits - Fig.2 - 4K Mountains Wallpaper</b>|
+
 ![Bass clef](../assets/images/bass.jpg)
 ![Alto clef](../assets/images/alto.jpg)
 ![Gramophone](../assets/images/gramophone.jpg)

@@ -26,22 +26,68 @@ A collection of Discworld-inspired gingerbread houses.
 ## Art
 
 #### Music
-![Treble clef](../assets/images/treble.jpg)
+| ![Treble clef](../assets/images/treble.jpg) |
 
-| <b>Image Credits - Fig.2 - 4K Mountains Wallpaper</b>|
+|:--:|
+
+| <b> Wooden cello clef </b>|
 
 ![Bass clef](../assets/images/bass.jpg)
+
+
+|:--:|
+
+| <b> Wooden bass clef </b>|
+
 ![Alto clef](../assets/images/alto.jpg)
+
+
+|:--:|
+
+| <b> Wooden alto clef </b>|
+
 ![Gramophone](../assets/images/gramophone.jpg)
+
+|:--:|
+
+| <b> Natural gramophone </b>|
+
 ![Bohemian Rhapsody](../assets/images/bho-rhap.jpg)
 
 #### Discworld
 ![A'Tuin](../assets/images/discworld.jpg)
 
+|:--:|
+
+| <b> The Great A'Tuin </b>|
+
 #### Nature
+
+Art that was created at various natural history museums. 
+
 ![Rose](../assets/images/rose.jpg)
+
+|:--:|
+
+| <b> A rose </b>|
+
 ![Squirrel](../assets/images/squirrel.jpg)
+
+|:--:|
+
+| <b> A squirrel </b>|
+
 ![Seahorse](../assets/images/seahorse.jpg)
+
+|:--:|
+
+| <b> A seahorse </b>|
+
 ![Albatross](../assets/images/albatross.jpg)
+
+|:--:|
+
+| <b> A baby albatross </b>|
+
 
 

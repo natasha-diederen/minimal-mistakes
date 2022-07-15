@@ -27,67 +27,39 @@ A collection of Discworld-inspired gingerbread houses.
 
 #### Music
 | ![Treble clef](../assets/images/treble.jpg) |
-
-|:--:|
-
-| <b> Wooden cello clef </b>|
+*Wooden treble clef*
 
 ![Bass clef](../assets/images/bass.jpg)
-
-
-|:--:|
-
-| <b> Wooden bass clef </b>|
+*Wooden bass clef*
 
 ![Alto clef](../assets/images/alto.jpg)
-
-
-|:--:|
-
-| <b> Wooden alto clef </b>|
+*Wooden alto clef*
 
 ![Gramophone](../assets/images/gramophone.jpg)
-
-|:--:|
-
-| <b> Natural gramophone </b>|
+*Natural gramophone*
 
 ![Bohemian Rhapsody](../assets/images/bho-rhap.jpg)
+*Bohemian Rhapsody*
 
 #### Discworld
 ![A'Tuin](../assets/images/discworld.jpg)
-
-|:--:|
-
-| <b> The Great A'Tuin </b>|
+*The Great A'Tuin*
 
 #### Nature
 
 Art that was created at various natural history museums. 
 
 ![Rose](../assets/images/rose.jpg)
-
-|:--:|
-
-| <b> A rose </b>|
+*A rose*
 
 ![Squirrel](../assets/images/squirrel.jpg)
-
-|:--:|
-
-| <b> A squirrel </b>|
+*A squirrel*
 
 ![Seahorse](../assets/images/seahorse.jpg)
-
-|:--:|
-
-| <b> A seahorse </b>|
+*A seahorse*
 
 ![Albatross](../assets/images/albatross.jpg)
-
-|:--:|
-
-| <b> A baby albatross </b>|
+*A baby albatross*
 
 
 

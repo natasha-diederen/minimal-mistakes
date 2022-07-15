@@ -13,10 +13,10 @@ author_profile: true
 A collection of Discworld-inspired gingerbread houses.
 
 #### [Granny Weatherwax's cottage](https://www.discworldemporium.com/blog/illustrating-granny-weatherwax-s-cottage-n11)
-![Image 1](../assets/images/weatherwax1.jpg =80x60)
-![Image 2](../assets/images/weatherwax2.jpg =80x60)
-![Image 3](../assets/images/weatherwax3.jpg =80x60)
-![Image 4](../assets/images/weatherwax4.jpg =80x60)
+![Image 1](../assets/images/weatherwax1.jpg)
+![Image 2](../assets/images/weatherwax2.jpg)
+![Image 3](../assets/images/weatherwax3.jpg)
+![Image 4](../assets/images/weatherwax4.jpg)
 
 #### [The Fool's Guild](https://wiki.lspace.org/Fools%27_Guild)
 ![Image 1](../assets/images/fool1.jpg)

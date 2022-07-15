@@ -3,7 +3,7 @@
 layout: single
 type: pages
 title: Home
-permalink: /pages/
+permalink: ""
 author_profile: true
 
 ---

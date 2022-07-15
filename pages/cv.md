@@ -8,4 +8,4 @@ author_profile: true
 
 ---
 
-[get the PDF](/assets/images/cv.pdf)
+[CV](/assets/images/cv.pdf)

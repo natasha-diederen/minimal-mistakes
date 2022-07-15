@@ -26,19 +26,19 @@ A collection of Discworld-inspired gingerbread houses.
 ## Art
 
 #### Music
-![Image 1](../assets/images/treble.jpg)
-![Image 2](../assets/images/bass.jpg)
-![Image 3](../assets/images/alto.jpg)
-![Image 4](../assets/images/gramophone.jpg)
-![Image 5](../assets/images/bho-rhap.jpg)
+![Treble clef](../assets/images/treble.jpg)
+![Bass clef](../assets/images/bass.jpg)
+![Alto clef](../assets/images/alto.jpg)
+![Gramophone](../assets/images/gramophone.jpg)
+![Bohemian Rhapsody](../assets/images/bho-rhap.jpg)
 
 #### Discworld
-![Image 1](../assets/images/discworld.jpg)
+![A'Tuin](../assets/images/discworld.jpg)
 
 #### Nature
-![Image 1](../assets/images/rose.jpg)
-![Image 2](../assets/images/squirrel.jpg)
-![Image 3](../assets/images/seahorse.jpg)
-![Image 4](../assets/images/albatross.jpg)
+![Rose](../assets/images/rose.jpg)
+![Squirrel](../assets/images/squirrel.jpg)
+![Seahorse](../assets/images/seahorse.jpg)
+![Albatross](../assets/images/albatross.jpg)
 
 

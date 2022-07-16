@@ -13,3 +13,6 @@ author_profile: true
 
 [![Elastic curves and active bending](../assets/images/elastic-curve.gif)](http://summergeometry.org/sgi2021/elastic-curves-and-active-bending/)
 *[Elastic curves and active bending](http://summergeometry.org/sgi2021/elastic-curves-and-active-bending/)*
+
+[![Triply periodic non-manifold minimal surfaces](../assets/images/minimal-surface.gif)](http://summergeometry.org/sgi2021/minimal-surfaces-but-with-saddle-points/)
+*[Triply periodic non-manifold minimal surfaces](http://summergeometry.org/sgi2021/minimal-surfaces-but-with-saddle-points/)*

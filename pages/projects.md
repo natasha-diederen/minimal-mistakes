@@ -8,12 +8,16 @@ author_profile: true
 
 ---
 ## Undergraduate Research Support Scheme
-Coming soon
+Work in progress - coming soon
 
 ## Second year essay
-Coming soon
+A 15 page essay written as part of my degree on curvature estimation on triangle meshes using a generalisation of 
+the second fundamental form.
+
+Coming soon (after university grades are finalised)
 
 ## Summer Geometry Institute 2021
+Projects undertaken as a part of the 2021 Summer Geometry Institute, hosted remotely by MIT.
 
 [![Fluid flow simulation](../assets/images/teaser.gif)](http://summergeometry.org/sgi2021/incompressible-flows-on-meshes/)
 *[Incompressible flow on meshes](http://summergeometry.org/sgi2021/incompressible-flows-on-meshes/)*

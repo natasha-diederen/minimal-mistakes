@@ -14,7 +14,7 @@ A collection of artwork I have created in my free time, including gingerbread ho
 A collection of Discworld-inspired gingerbread houses.
 
 #### [Granny Weatherwax's cottage](https://www.discworldemporium.com/blog/illustrating-granny-weatherwax-s-cottage-n11) (2020)
-Joint work of me and a housemate
+Joint project of me and a housemate
 ![Image 1](../assets/images/weatherwax1.jpg)
 ![Image 2](../assets/images/weatherwax2.jpg)
 ![Image 3](../assets/images/weatherwax3.jpg)
@@ -22,7 +22,7 @@ Joint work of me and a housemate
 
 
 #### [The Fool's Guild](https://wiki.lspace.org/Fools%27_Guild) (2021)
-Joint work of me and a housemate
+Joint project of me and a housemate
 ![Image 1](../assets/images/fool1.jpg)
 ![Image 2](../assets/images/fool2.jpg)
 ![Image 3](../assets/images/fool3.jpg)

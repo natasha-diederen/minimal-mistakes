@@ -13,8 +13,8 @@ Work in progress - coming soon
 ## Second year essay
 A 15 page essay written as part of my degree on curvature estimation on triangle meshes using a generalisation of 
 the second fundamental form.
-
-Coming soon (after university grades are finalised)
+[![Curvature](../assets/images/bunnycurve.png)](../assets/images/essay.pdf)
+*[Essay](../assets/images/essay.pdf)*
 
 ## Summer Geometry Institute 2021
 Projects undertaken as a part of the 2021 Summer Geometry Institute, hosted remotely by MIT.

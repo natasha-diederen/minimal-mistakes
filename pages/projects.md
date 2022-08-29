@@ -13,7 +13,7 @@ Work in progress - coming soon
 ## Second year essay
 A 15 page essay written as part of my degree on curvature estimation on triangle meshes using a generalisation of 
 the second fundamental form.
-[![Curvature](../assets/images/bunnycurve.png)](../assets/images/essay.pdf)
+[![Curvature](../assets/images/bunnycurve.png)](../../assets/images/essay.pdf)
 *[Essay](../assets/images/essay.pdf)*
 
 ## Summer Geometry Institute 2021

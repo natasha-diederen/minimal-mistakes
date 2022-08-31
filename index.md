@@ -10,7 +10,7 @@ author_profile: true
 
 I am a second year mathematics student at the University of Warwick with a strong interest in geometric measure theory and differential 
 geometry, occasionally dabbling in geometry processing as well. Right now, I am working on a funded research project with Professor 
-[Felix Schulze](https://www.felixschulze.eu/) on Berstein's Problem for minimal surfaces. I have also been selected to attend the [LMS
+[Felix Schulze](https://www.felixschulze.eu/) on Berstein's Problem for minimal surfaces. I recently attended the [LMS
 summer school](http://www.lms.macs.hw.ac.uk/) set up to introduce modern concepts to the top mathematics undergraduates in the UK.
 
 Previously, I was a research fellow at the 2021 [Summer Geometry Institute](https://sgi.mit.edu/) hosted by MIT and did work on 

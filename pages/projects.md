@@ -9,12 +9,14 @@ author_profile: true
 ---
 ## Undergraduate Research Support Scheme
 Funded research project supervised by Professor Felix Schulze on Berstein's Problem for minimal surfaces. 
+
 [![Poster](../assets/images/poster.png)](../../assets/images/urssposter.pdf)
 *[Write-up](../assets/images/essay.pdf)*
 
 ## Second year essay
 A 15 page essay written as part of my degree on curvature estimation on triangle meshes using a generalisation of 
 the second fundamental form.
+
 [![Curvature](../assets/images/bunnycurve.png)](../../assets/images/essay.pdf)
 *[Essay](../assets/images/essay.pdf)*
 

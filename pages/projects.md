@@ -8,7 +8,7 @@ author_profile: true
 
 ---
 ## Undergraduate Research Support Scheme
-[![Poster](../assets/images/urssposter.pdf)](../../assets/images/urss.pdf)
+[![Poster](../assets/images/poster.png)](../../assets/images/urss.pdf)
 
 ## Second year essay
 A 15 page essay written as part of my degree on curvature estimation on triangle meshes using a generalisation of 

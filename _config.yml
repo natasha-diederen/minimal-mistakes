@@ -126,9 +126,6 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/natashadiederen"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/natasha-diederen"

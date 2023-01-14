@@ -6,5 +6,5 @@ main:
   #  url: /pages/resources/
   - title: "Projects"
     url: /pages/projects/
-  - title: "Gallery"
-    url: /pages/gallery/
+  #- title: "Gallery"
+  #  url: /pages/gallery/
